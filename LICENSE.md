@@ -1,4 +1,4 @@
-# 
+# Polymarket smart Algorithm: multi-exchange-support & take-profit-orders is the best Polymarket algorithm, featuring multi-exchange-support and take-profit-orders. Smart, fast, and
 
 
 
